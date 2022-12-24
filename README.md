@@ -2,7 +2,7 @@
 #    <div style="align:center">  <p> <a href="https://practice.geeksforgeeks.org/courses">GfG(Sandeep Jain)</a>   <a href="https://udemy.com">udemy(Abdul Bari)</a>     </div>
 
 
-## ○ Arrays
+## ○ Arrays   :heavy_check_mark:
 <pre>
 ● Types of Arrays
 ○ Fixed-sized array
@@ -31,7 +31,7 @@
 ○ Prefix Sum Technique
 </pre>
 
-## ○ Searching
+## ○ Searching :heavy_check_mark:
 <pre>
 ● Binary Search Iterative and Recursive
 ● Binary Search and various associated problems(With Video Solutions)
@@ -54,7 +54,7 @@
 
 </pre>
 
-## ○ Sorting
+## ○ Sorting :heavy_check_mark:
 
 <pre>
 Implementation of C++ STL sort() function in Arrays and Vectors
@@ -100,7 +100,7 @@ Implementation of C++ STL sort() function in Arrays and Vectors
 </pre>
 
 
-## ○ Matrix
+## ○ Matrix :heavy_check_mark:
 <pre>
 
 ● Introduction to Matrix in C++
@@ -119,7 +119,7 @@ Implementation of C++ STL sort() function in Arrays and Vectors
 
 
 
-## ○  Hashing
+## ○ Hashing :heavy_check_mark:
 <pre>
 ● Application of Hashing
 ● Discussion on Direct Address Table
@@ -154,7 +154,7 @@ Implementation of C++ STL sort() function in Arrays and Vectors
 
 
 
-## ○ Strings
+## ○ Strings :heavy_check_mark:
 <pre>
 ● Problems:
 ○ Given a string, check if they are an anagram of each other.
@@ -174,7 +174,7 @@ pattern exists in the text.
 
 </pre>
 
-## ○  Linked List
+## ○  Linked List :heavy_check_mark:
 <pre>
 ● Introduction
 ○ Implementation in CPP
@@ -190,7 +190,7 @@ pattern exists in the text.
 ● Problems():
 ○ Middle of Linked List
 ○ Nth node from the end of linked list
-○ Deleting a Node without accessing Head pointer of Linked List
+○ Deleting a No:red_circle:de without accessing Head pointer of Linked List
 ○ An iterative method to Reverse a linked list
 ○ Recursive method to reverse a linked list
 ○ Reverse in group of size k
@@ -210,7 +210,7 @@ pattern exists in the text.
 </pre>
 
 
-## ○ Stack
+## ○ Stack :heavy_check_mark:
 <pre>
 ● Understanding the Stack data structure
 ● Applications of Stack
@@ -238,7 +238,7 @@ pattern exists in the text.
 </pre>
 
 
-## ○ Queue
+## ○ Queue :heavy_check_mark:
 <pre>
 ● Introduction and Application
 ● Implementation of the queue using array and LinkedList
@@ -252,7 +252,7 @@ pattern exists in the text.
 </pre>
 
 
-## ○ Deque
+## :red_circle: Deque
 <pre>
 Introduction and Application
 ● Implementation
@@ -265,7 +265,7 @@ Introduction and Application
 </pre>
 
 
-## ○  Tree
+## ○  Tree :heavy_check_mark:
 <pre>
 ● Introduction
 ○ Tree
@@ -303,7 +303,7 @@ Introduction and Application
 
 </pre>
 
-## ○  Binary Search Tree
+## :red_circle:  Binary Search Tree
 <pre>
 ● Background, Introduction and Application
 ● Implementation of Search in BST
@@ -371,7 +371,7 @@ Introduction and Application
 ○ Bottom View of Binary Tree
 </pre>
 
-## ○ Heap
+## :red_circle: Heap
 <pre>
 ● Introduction & Implementation
 ● Binary Heap
@@ -389,7 +389,7 @@ Introduction and Application
 ○ Median of a Stream
 </pre>
 
-## ○ Graph
+## :red_circle: Graph
 <pre>
 ● Introduction to Graph
 ● Graph Representation
@@ -426,7 +426,7 @@ Introduction and Application
 ● Tarjan’s Algorithm
 </pre>
 
-## ○  Greedy
+## :red_circle: Greedy
 <pre>
 ● Introduction
 ● Activity Selection Problem
@@ -436,7 +436,7 @@ Introduction and Application
 </pre>
 
 
-## ○ Backtracking
+## :red_circle: Backtracking
 <pre>
 ● Concepts of Backtracking
 ● Rat In a Maze
@@ -444,7 +444,7 @@ Introduction and Application
 ● Sudoku Problem
 </pre>
 
-## ○ Dynamic Programming
+## :red_circle: Dynamic Programming
 <pre>
 ● Introduction
 ● Dynamic Programming
@@ -477,7 +477,7 @@ Introduction and Application
 ○ Palindrome Parititioning
 </pre>
 
-## ○ Trie
+## :red_circle: Trie
 <pre>
 ● Introduction
 ○ Representation
@@ -487,7 +487,7 @@ Introduction and Application
 ● Count Distinct Rows in a Binary Matrix
 </pre>
 
-## ○ Segment Tree 
+## :red_circle: Segment Tree 
 <pre>
 ● Introduction
 ● Construction
@@ -495,7 +495,7 @@ Introduction and Application
 ● Update Query
 </pre>
 
-## ○ Disjoint Set
+## :red_circle: Disjoint Set
 <pre>
 ● Introduction
 ● Find and Union Operations
