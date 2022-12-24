@@ -1,5 +1,5 @@
 # ⓇⓄⒷⒾⓃ
-#    <div style="align:center">  <p> <a href="https://practice.geeksforgeeks.org/courses">GfG(Sandeep Jain)</a>   <a href="https://udemy.com">udemy(Abdul Bari)</a>     </div>
+#    <div style="align:center">  <p> <a href="https://practice.geeksforgeeks.org/courses">GfG(Sandeep Jain)</a>   <a href="https://www.udemy.com/user/mohammed-abdul-bari-2/">udemy(Abdul Bari)</a>     </div>
 
 
 ## ○ Arrays   :heavy_check_mark:
