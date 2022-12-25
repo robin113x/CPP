@@ -5,10 +5,18 @@ using namespace std;
 class solution {
 public:
 	void sol(int arr[], int n) {
+		int i,j,k;
+		for(i=0;i<n;i++){
+			j=k=i;
+			while(j<n){
+				if(arr[j]<arr[i])
+					k=j;
+				j++;
+			}
+			swap(arr[i],arr[k]);
+		}
 
 	}
-
-
 
 
 	//Display an Array
@@ -34,6 +42,8 @@ int main(int argc, char const *argv[])
 	ss.dispaly(arr, n);
 	/*-------------*/
 	ss.sol(arr, n);
+	ss.dispaly(arr, n);
+	
 
 
 	return 0;
