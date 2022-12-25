@@ -5,7 +5,17 @@ using namespace std;
 class solution {
 public:
 	void sol(int arr[], int n) {
-
+		int pivot=arr[0];
+		int i=0,j=0;
+		while(i<n){
+			if(arr[i]> pivot)
+				i++;
+			else{
+				swap(arr[i],arr[j]);
+				i++;
+				j++;
+			}
+		}
 	}
 
 	
