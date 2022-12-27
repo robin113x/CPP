@@ -40,7 +40,7 @@ public:
 		if (curr == NULL) return;
 		cout << curr->data << " ";
 		display(curr->next);
-	}Bam Lahari
+	}
 
 };
 
