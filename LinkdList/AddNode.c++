@@ -47,13 +47,7 @@ public:
 int main(int argc, char const *argv[])
 {
 	solution ss;
-	Node *head = NULL;
-	head = ss.AddLastNode(head, 30);
-	head = ss.AddLastNode(head, 40);
-	head = ss.AddLastNode(head, 50);
-	head = ss.AddLastNode(head, 60);
-	ss.display(head);
-	cout<<endl;
+	Node *head = NULL; ;
 	head = ss.AddFirstNode(head,100);
 	ss.display(head);
 
